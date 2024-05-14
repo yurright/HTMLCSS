@@ -4,7 +4,7 @@
 
 ![hypertext](https://github.com/yurright/HTMLCSS/blob/main/assets/hypertext.jpeg)
 
-## 요약:
+## 요약
 
 노드(node)와 링크(link)를 통해 웹 상의 다른 문서나 멀티미디어 등으로 이동할 수 있도록 구조화 되어 있는 텍스트.
 
