@@ -2,7 +2,7 @@
 
 출처: [네이버 지식백과](https://terms.naver.com/entry.naver?docId=1200583&cid=40942&categoryId=32838)
 
-[! Hypertext](https://github.com/yurright/HTMLCSS/blob/main/assets/hypertext.jpeg)
+![hypertext](https://github.com/yurright/HTMLCSS/blob/main/assets/hypertext.jpeg)
 
 ## 요약:
 
