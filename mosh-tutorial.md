@@ -417,6 +417,10 @@ unsplash.com : free images
 
 inspect image squash: dev toll checkbox
 
+## video
+
+## audio
+
 
 ### SEO related
 <meta title>
